@@ -1,7 +1,7 @@
 [gd_scene load_steps=3 format=3 uid="uid://dg27rvvwkxi7n"]
 
 [ext_resource type="PackedScene" uid="uid://bh40y4cwttrrv" path="res://card.tscn" id="1_0xm2m"]
-[ext_resource type="Script" uid="uid://bohrxsru5nff7" path="res://CardManager.cs" id="1_h2yge"]
+[ext_resource type="Script" uid="uid://c2dqdiwr7rikd" path="res://CardManager.gd" id="1_h2yge"]
 
 [node name="Main" type="Node2D"]
 
